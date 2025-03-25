@@ -19,5 +19,7 @@ Managing Subscriptions
 If you subscribe to premium features, your subscription is managed by Apple. You can cancel or modify your subscription at any time through your Apple ID settings in the App Store.
 
 Contact Us
+
 If you have any questions or concerns, please contact us at: 📧 FeedbackToBigBear@gmail.com
+
 Last Updated: 24 March, 2025
